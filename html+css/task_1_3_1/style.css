@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+body{
+	padding: 20px;
+}
+div{
+	border: 1px solid #999;
+	padding: 20px;
+	background-color: white;
+}
+
+.main{
+	background-color: #eee;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+	background-color: #eee;
+}
+.logo p{
+	text-align: center;
+}
+.left{
+	width: 160px;
+	float: left;
+}
+.left .logo{
+    float: left;
+}
+.left p{
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+}
+.right{
+	width: 80px;
+	float: right;
+}
+.center{
+	margin-left: 220px;
+	margin-right: 140px;
+}
